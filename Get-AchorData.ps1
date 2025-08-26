@@ -1,3 +1,4 @@
+#Requires -Version 5.1
 Param(
   [string]$Url  = "https://raw.githubusercontent.com/PaulJerimy/SecCertRoadmapHTML/refs/heads/main/Security-Certification-Roadmap9.html"
 )
